@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "26feb0c6b0f25d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "936b6b810cd8df27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Documentation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4bfae515f22c42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bbc7d8037ba17b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deecd81928f413b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "618d82af2bc6122a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d38049ec18150d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4453e60b3b1b76f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088535f3a43129f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "936b6b810cd8df27",
+  "lastOpenFiles": [
+    "Debugger.md",
+    "question mark double point operator.md",
+    "Documentation.md",
+    "Automatic style formatter.md",
+    "Segmentation fault.md",
+    "Stack Overflow.md",
+    "Singly-Linked List.md",
+    "Linked lists.md",
+    "Programmazione In C/Pointers.md",
+    "Programmazione In C/C Format Specifiers.md"
+  ]
+}

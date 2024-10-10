@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "26feb0c6b0f25d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8306398a2f783d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "936b6b810cd8df27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9947eab97e6c2aed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc2cf57e23b0d323",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "c0516f42066fa6aa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "38fa956fade2287b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb76ca0da3fa3551",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "936b6b810cd8df27",
+  "lastOpenFiles": [
+    "Documentation.md",
+    "Debugger.md",
+    "question mark double point operator.md",
+    "Automatic style formatter.md",
+    "Segmentation fault.md",
+    "Stack Overflow.md",
+    "Singly-Linked List.md",
+    "Linked lists.md",
+    "Programmazione In C/Pointers.md",
+    "Programmazione In C/C Format Specifiers.md"
+  ]
+}

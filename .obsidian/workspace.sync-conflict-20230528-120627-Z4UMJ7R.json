@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "26feb0c6b0f25d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c28c0f0bc45becd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bdab5e49a6abdb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBases/Normalizzazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c5b95ce12d50015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binet Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4bfae515f22c42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bbc7d8037ba17b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deecd81928f413b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "618d82af2bc6122a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mutex",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a704bfe96c68211a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "d38049ec18150d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4453e60b3b1b76f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088535f3a43129f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Binet Formula.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c14e63378537c09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "8c5b95ce12d50015",
+  "lastOpenFiles": [
+    "DataBases/Normalizzazione.md",
+    "Binet Formula.md",
+    "Attachments/Pasted image 20230518190001.png",
+    "DataBases/Dynamic Routes.md",
+    "DataBases/Using VirtualEnv.md",
+    "Attachments/Pasted image 20230517155936.png",
+    "Attachments/Pasted image 20230517155744.png",
+    "Attachments/Pasted image 20230517155228.png",
+    "DataBases/Relazioni tra classi.md",
+    "DataBases/installazione postgres Fedora.md",
+    "DataBases/Installazione windows.md",
+    "DataBases/Postgres.md",
+    "DataBases/Matriale Utile Progetto Basi.md",
+    "DataBases/Relational databases.md",
+    "Il metodo __repr__.md",
+    "DataBases/Da che cosa è fatto un Database.md",
+    "DataBases/Atomic values.md",
+    "DataBases/RDBMS.md",
+    "DataBases/Chiave primaria Composta.md",
+    "DataBases/Tools Utili per La manipolazione Di DBMS.md",
+    "DataBases/03032023.md",
+    "DataBases/17022022 Basi Dei dati.md",
+    "DataBases/I Attributi in una DB.md",
+    "DataBases/Le Entità in una DB.md",
+    "DataBases/DBMS vs Spreadsheet.md",
+    "DataBases/CRUD.md",
+    "DataBases/Chaive Esterna.md",
+    "DataBases/Chiave primaria.md",
+    "DataBases/Tipi di connessione in una ERD.md",
+    "DataBases/Relationships.md",
+    "Attachments/Pasted image 20230507203856.png",
+    "Attachments/Pasted image 20230507195553.png",
+    "DataBases/~syncthing~What's wrong with foreign keys.md.tmp",
+    "DataBases/~syncthing~CRUD.md.tmp",
+    "DataBases/~syncthing~Chiave primaria Composta.md.tmp",
+    "DataBases/~syncthing~Tools Utili per La manipolazione Di DBMS.md.tmp",
+    "DataBases/~syncthing~Tipi di connessione in una ERD.md.tmp",
+    "Algorithms/~syncthing~qsort function in C.md.tmp",
+    "Attachments/Pasted image 20230505143902.png",
+    "DataBases/~syncthing~Chiave primaria.md.tmp",
+    "Attachments/Pasted image 20230505204535.png",
+    "Attachments/~syncthing~Pasted image 20230505204535.png.tmp",
+    "DataBases/~syncthing~Entità associativa.md.tmp",
+    "Attachments/~syncthing~Pasted image 20230505143902.png.tmp"
+  ]
+}

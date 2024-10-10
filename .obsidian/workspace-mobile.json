@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "26feb0c6b0f25d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8306398a2f783d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "936b6b810cd8df27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBases/What's wrong with foreign keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9947eab97e6c2aed",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc2cf57e23b0d323",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "c0516f42066fa6aa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "726f80d1878f001b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "38fa956fade2287b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb76ca0da3fa3551",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DataBases/What's wrong with foreign keys.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "936b6b810cd8df27",
+  "lastOpenFiles": [
+    "Crittografia/PGP.md",
+    "DataBases/What's wrong with foreign keys.md",
+    "Esempio di Matrici Fucked Up.md",
+    "Crittografia/Pourquoi la securité est importante .md",
+    "Documentation.md",
+    "Debugger.md",
+    "question mark double point operator.md",
+    "Automatic style formatter.md",
+    "Segmentation fault.md",
+    "Stack Overflow.md"
+  ]
+}

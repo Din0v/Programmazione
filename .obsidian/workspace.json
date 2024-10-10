@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "26feb0c6b0f25d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dade49019ebd1080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5790e50e63b7f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBases/SQL/QUERY THE x FIELD FROM THE y TABLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bdde72605b75f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CORDIC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49700b6fa47f348d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataBases/Deterministic distributed Database System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24be235da11549b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4bfae515f22c42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bbc7d8037ba17b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deecd81928f413b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "618d82af2bc6122a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "zram",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a704bfe96c68211a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5106201171875,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d38049ec18150d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4453e60b3b1b76f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088535f3a43129f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c14e63378537c09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "24be235da11549b5",
+  "lastOpenFiles": [
+    "DataBases/SQL/QUERY THE x FIELD FROM THE y TABLE.md",
+    "Zram Linux.md",
+    "NanoVg Game engine.md",
+    "Crittografia/Padding.md",
+    "Zero Tolerance for Bias.md",
+    "Atkinson Dithering.md",
+    "Untitled.md",
+    "Compilers are Too Smart.md",
+    "DataBases/Deterministic distributed Database System.md",
+    "ZIG language.md",
+    "CORDIC.md",
+    "DataBases/SQL/JOIN vs NATURAL JOIN.md",
+    "DataBases/SQL/Select all.md",
+    "DataBases/SQL/Condizione con Like.md",
+    "DataBases/SQL/GROUP BY and HAVING.md",
+    "DataBases/SQL/Conditionals in SQL.md",
+    "RoofLine model.md",
+    "String compare.md",
+    "variable.md",
+    "Documentation.md",
+    "Pointer Arithmitic.md",
+    "Malloc.md",
+    "Segmentation fault.md",
+    "Casting in C.md",
+    "Reccurence.md",
+    "Activation record.md",
+    "Attachments/Pasted image 20240202074918.png",
+    "Attachments/Pasted image 20240202074701.png",
+    "DataBases/SQL",
+    "Attachments/Pasted image 20231117113854.png",
+    "Attachments/Pasted image 20231117113803.png",
+    "Attachments/Pasted image 20231116185017.png",
+    "Attachments/Pasted image 20231116184942.png",
+    "Attachments/Pasted image 20231116184825.png",
+    "Attachments/Pasted image 20231116184337.png",
+    "Attachments/Pasted image 20231116184246.png",
+    "Attachments/Pasted image 20231116184237.png",
+    "Attachments/Mosfet With powerLed 1",
+    "Attachments/Mosfet With powerLed",
+    "Arduino",
+    "ingegneria del software",
+    "DataBases/Basi Progetto/Modelli",
+    "DataBases/Basi Progetto/Le funzioni",
+    "DataBases/Basi Progetto",
+    "DataBases.zip",
+    "DataBases/~syncthing~What's wrong with foreign keys.md.tmp"
+  ]
+}

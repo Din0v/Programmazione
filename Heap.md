@@ -1,0 +1,1 @@
+The heap is for Dynamic memory: which in turn are pieces of data that get created when the program is running and then hang arond a a long time.

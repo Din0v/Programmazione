@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "26feb0c6b0f25d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec05162fe2691055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76065e9cbdb2c19c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4bfae515f22c42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bbc7d8037ba17b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deecd81928f413b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "618d82af2bc6122a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "virtua ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a704bfe96c68211a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5106201171875
+  },
+  "right": {
+    "id": "d38049ec18150d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4453e60b3b1b76f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088535f3a43129f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c14e63378537c09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "76065e9cbdb2c19c",
+  "lastOpenFiles": [
+    "DataBases/Basi Progetto/Modelli/prove.md",
+    "DataBases/Basi Progetto/Modelli/Iscrizioni.md",
+    "DataBases/Basi Progetto/Modelli/Esami.md",
+    "DataBases/Basi Progetto/Modelli/Appelli.md",
+    "DataBases/Basi Progetto/Modelli/Esito Prove.md",
+    "DataBases/Basi Progetto/Modelli/Docenti.md",
+    "DataBases/Basi Progetto/Modelli/Esami Superati.md",
+    "DataBases/Basi Progetto/Le funzioni/Registra Prova.md",
+    "DataBases/Basi Progetto/Le funzioni/Storico Prove.md",
+    "DataBases/Basi Progetto/Le funzioni/Funzioni.md",
+    "DataBases/Basi Progetto/Le funzioni/Prove Superate.md",
+    "DataBases/Basi Progetto/Le funzioni/Funzione Prossimi Appelli.md",
+    "DataBases/Basi Progetto/Le funzioni/Funzione Accesso.md",
+    "DataBases/Basi Progetto/Introduzione.md",
+    "DataBases/Basi Progetto/Installazione ed esecuzione.md",
+    "DataBases/Basi Progetto/comandi di configurazione.md",
+    "DataBases/Tassonomia.md",
+    "DataBases/Basi Progetto/Modelli",
+    "DataBases/Basi Progetto/Le funzioni/Funzione Prove superate.md",
+    "DataBases/Basi Progetto/Le funzioni/Registra Esami.md",
+    "How to access a hidden directory in Unix.md",
+    "DataBases/Basi Progetto/Le funzioni",
+    "DataBases/Normalizzazione.md",
+    "Attachments/Screenshot from 2023-06-24 17-51-43.png",
+    "DataBases/Basi Progetto",
+    "DataBases/URI.md",
+    "DataBases/Un altra spiegazione per RDBMS.md",
+    "DataBases/Installazione.md",
+    "DataBases/installazione postgres Fedora.md",
+    "DataBases/Installazione windows.md",
+    "Attachments/Pasted image 20230617145022.png",
+    "Attachments/Pasted image 20230617144919.png",
+    "Attachments/Pasted image 20230617143834.png",
+    "Attachments/Pasted image 20230617143754.png",
+    "Attachments/Pasted image 20230617141319.png",
+    "Attachments/Pasted image 20230617141231.png",
+    "Attachments/Pasted image 20230604113444.png",
+    "Attachments/Pasted image 20230604113354.png",
+    "Attachments/Pasted image 20230604113305.png",
+    "DataBases.zip",
+    "DataBases/~syncthing~What's wrong with foreign keys.md.tmp",
+    "DataBases/~syncthing~CRUD.md.tmp",
+    "DataBases/~syncthing~Chiave primaria Composta.md.tmp",
+    "DataBases/~syncthing~Tools Utili per La manipolazione Di DBMS.md.tmp",
+    "DataBases/~syncthing~Tipi di connessione in una ERD.md.tmp",
+    "Algorithms/~syncthing~qsort function in C.md.tmp"
+  ]
+}

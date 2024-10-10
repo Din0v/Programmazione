@@ -1,0 +1,18 @@
+{
+  "obsidianCss": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "tabSize": 4,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 51
+  },
+  "spellcheckLanguages": null,
+  "readableLineLength": true
+}

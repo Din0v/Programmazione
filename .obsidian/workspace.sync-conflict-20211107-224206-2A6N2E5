@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "35b5cd8249d4fcb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6781b935960edd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Useful Notes i got while studying.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38feefe7aeca679d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "afc46c8b9cfc1570",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "54385615a9fce264",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4b4df627dfc70055",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9b2c19bcce0fe639",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Useful Notes i got while studying.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "aa6781b935960edd",
+  "lastOpenFiles": [
+    "Useful Notes i got while studying.md",
+    "Pointers.md",
+    "Algorithms/Dynamic Programming/Fibonacci Problem.md",
+    "Untitled.md",
+    "Malloc.md",
+    "Functions.md",
+    "Exercises from the book.md",
+    "Enumeration Constant.md",
+    "Building my text editor/A curiosity.md",
+    "Building my text editor/ctype.h.md"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "26feb0c6b0f25d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fe78dcada10544d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "936b6b810cd8df27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72d1411bb5a52f1d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "675dfc0fc95fba4c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "034c8ae1b01055f3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7ba15dce19f0141e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b0a3268a1977eb2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Documentation.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "936b6b810cd8df27",
+  "lastOpenFiles": [
+    "Debugger.md",
+    "question mark double point operator.md",
+    "Documentation.md",
+    "Automatic style formatter.md",
+    "Segmentation fault.md",
+    "Stack Overflow.md",
+    "Singly-Linked List.md",
+    "Linked lists.md",
+    "Programmazione In C/Pointers.md",
+    "Programmazione In C/C Format Specifiers.md"
+  ]
+}
